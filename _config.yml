@@ -1,0 +1,28 @@
+name: pberg
+favicon: null
+layout_spectrum: 0.3281343050766736
+typography_spectrum: 0.04871688620187342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09724336513318121
+  lightness: 0.6791807028930634
+  saturation: 0.47678078641183674
+  rhythmicContrast: 0.31947091850452125
+purpose: []
